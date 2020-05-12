@@ -1,3 +1,10 @@
+## Setup
+Bash Shell: We will need to access this functionality to download data and launch Jupyter Notebook.
+Select your operating system:
+- **Windows:** Download [Git for Windows installer]('https://gitforwindows.org/')
+- **MacOS:** The default shell in all versions of macOS is Bash, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
+- **Linux:** The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/drakeasberry/intro_python_1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
