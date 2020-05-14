@@ -1,44 +1,25 @@
-## Setup
-Bash Shell: We will need to access this functionality to download data and launch Jupyter Notebook.
+## Prerequisites
+While you do not need to know any python or programming languages to attend this workshop, you will need to have the following prerequisites met before attending.
+
+### GitHub Account
+GitHub allows you to host static pages such as this one you are viewing right now, store project code and collaborate with project team members. If you do not currently have a GitHub user account, please [register here](https://github.com/) before the workshop begins. Please make sure you remember you username and password.
+
+### Internet Browser
+You will also need to be able to access the internet through relatively up-to-date browser such as Chrome, Safari or Firefox.
+
+## Technology used in creating workshop
+Below is a list of the all the technology/software I used in creating workshop materials. If you plan to attend other workshops that require the same tools, you shoud consider installing them now and reaching out to a Resbaz facilitor, helper or instructor if you need help with installation. If you are not sure how much you will use these tools, I would recommend attending the workshop with only prequisites (listed above) and see what you may think will be useful for you in the future. There are weekly Resbaz events on campus (virtual until further notice with COVID-19) called "Coffee and Code" and "Hacky Hour" where you can find support anytime of the year.
+
+### Bash Shell: 
+Allows you to interface with your computer and do lots of cool stuff. 
 Select your operating system:
-- **Windows:** Download [Git for Windows installer]('https://gitforwindows.org/')
-- **MacOS:** The default shell in all versions of macOS is Bash, so no need to install anything. You access Bash from the Terminal (found in `/Applications/Utilities`). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
+- **Windows:** Download [Git for Windows installer](https://gitforwindows.org/)
+- **MacOS:** The default shell in all versions of macOS is Bash, so no need to install anything. You access Bash from the Terminal (found in `/Applications/Utilities`). 
 - **Linux:** The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
 
-## Welcome to GitHub Pages
+### Anaconda
+Anaconda gives you access to open source software where you can utilize Python to begin your programming projects. The Jupyter Notebooks that we will be working with were created using Anaconda.
 
-You can use the [editor on GitHub](https://github.com/drakeasberry/intro_python_1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[Download Anaconda](https://www.anaconda.com/products/individual)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/drakeasberry/intro_python_1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
