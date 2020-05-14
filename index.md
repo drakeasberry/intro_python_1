@@ -1,16 +1,19 @@
 ## Prerequisites
 While you do not need to know any python or programming languages to attend this workshop, you will need to have the following prerequisites met before attending.
 
+### Internet Browser
+You will also need to be able to access the internet through relatively up-to-date browser such as Chrome, Safari or Firefox.
+
 ### GitHub Account
 GitHub allows you to host static pages such as this one you are viewing right now, store project code and collaborate with project team members. If you do not currently have a GitHub user account, please [register here](https://github.com/) before the workshop begins. Please make sure you remember you username and password.
 
-### Internet Browser
-You will also need to be able to access the internet through relatively up-to-date browser such as Chrome, Safari or Firefox.
+### HackMD
+HackMD uses a markdown language and provides a collaborative workspace for note-taking. We will use it during the workshop to get started, introduce ourselves and for communication of notes as well as Q&A. [Create an account](https://hackmd.io/) to be ready to share your insight during the workshop. You will receive a link to our workshop's HackMD page at the beginning of the workshop.
 
 ## Technology used in creating workshop
 Below is a list of the all the technology/software I used in creating workshop materials. If you plan to attend other workshops that require the same tools, you shoud consider installing them now and reaching out to a Resbaz facilitor, helper or instructor if you need help with installation. If you are not sure how much you will use these tools, I would recommend attending the workshop with only prequisites (listed above) and see what you may think will be useful for you in the future. There are weekly Resbaz events on campus (virtual until further notice with COVID-19) called "Coffee and Code" and "Hacky Hour" where you can find support anytime of the year.
 
-### Bash Shell: 
+### Bash Shell 
 Allows you to interface with your computer and do lots of cool stuff. 
 Select your operating system:
 - **Windows:** Download [Git for Windows installer](https://gitforwindows.org/)
