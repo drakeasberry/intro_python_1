@@ -18,8 +18,19 @@ Select your operating system:
 - **Linux:** The default shell is usually Bash, but if your machine is set up differently you can run it by opening a terminal and typing bash. There is no need to install anything.
 
 ### Anaconda
-Anaconda gives you access to open source software where you can utilize Python to begin your programming projects. The Jupyter Notebooks that we will be working with were created using Anaconda.
+Anaconda gives you access to open source software where you can utilize Python to begin your programming projects. The Jupyter Notebooks that we will be working with were created using Anaconda. [Download Anaconda](https://www.anaconda.com/products/individual) It is an all-in-one installer and I would recommend installing a version with Python 3.6 or higher.
 
-[Download Anaconda](https://www.anaconda.com/products/individual)
+### Git
+Git is a version control system that lets you track who made changes to what when and has options for easily updating a shared or public version of your code on GitHub. 
+Select your operating system:
+- **Windows:** Git should have been installed on your computer when you installed Bash Shell
+- **MacOS:** For OS X 10.9 and higher, [install Git for Mac](https://sourceforge.net/projects/git-osx-installer/files/) by downloading and running the most recent "mavericks" installer. For older versions of OS X (10.5-10.8) use the most recent available installer labelled "snow-leopard" available. After installing Git, there will not be anything in your `/Applications` folder, as Git is a command line program. 
+- **Linux:** If Git is not already available on your machine you can try to install it via your distro's package manager. For Debian/Ubuntu run `sudo apt-get install git` and for Fedora run `sudo dnf install git`.
 
+### Text Editor
+Text editors are nice to have when writing code especially those that support syntax highlighting. Many text editors exist such Vim, Notepad++, Sublime, Atom, etc. If you already currently have a preferred choice of text editor, I would suggest you stick with it. However if not, please follow the directions below to install Nano.
 
+Select your operating system:
+- **Windows:** It is installed along with Git when you installed Bash.
+- **MacOS:** It is installed along with Git.
+- **Linux:** It is installed along with Git.
